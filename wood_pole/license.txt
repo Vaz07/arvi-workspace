@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wood Pole
+* source:	https://sketchfab.com/3d-models/wood-pole-7ba50679112b43f8bbd31924df16df02
+* author:	gaja (https://sketchfab.com/gaja3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wood Pole" (https://sketchfab.com/3d-models/wood-pole-7ba50679112b43f8bbd31924df16df02) by gaja (https://sketchfab.com/gaja3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
