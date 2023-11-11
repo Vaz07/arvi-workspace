@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinghy
+* source:	https://sketchfab.com/3d-models/dinghy-92b24c2f8b874360ab84bf0e881883fe
+* author:	Vlad model's (https://sketchfab.com/a3flife)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinghy" (https://sketchfab.com/3d-models/dinghy-92b24c2f8b874360ab84bf0e881883fe) by Vlad model's (https://sketchfab.com/a3flife) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
