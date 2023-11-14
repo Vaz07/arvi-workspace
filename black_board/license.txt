@@ -1,0 +1,11 @@
+Model Information:
+* title:	black_board
+* source:	https://sketchfab.com/3d-models/black-board-2557ab6898ac47ba9bfdfdb607454825
+* author:	blackwind191121 (https://sketchfab.com/blackwind191121)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "black_board" (https://sketchfab.com/3d-models/black-board-2557ab6898ac47ba9bfdfdb607454825) by blackwind191121 (https://sketchfab.com/blackwind191121) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
